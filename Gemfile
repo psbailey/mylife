@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 gem 'carrierwave'
 gem 'rmagick'
 gem 'devise'
+gem 'foundation-rails'
